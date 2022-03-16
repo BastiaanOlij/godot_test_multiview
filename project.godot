@@ -17,7 +17,6 @@ config/features=PackedStringArray("4.0")
 
 [rendering]
 
-vulkan/rendering/back_end=1
 environment/defaults/default_environment="res://default_env.tres"
 xr/enabled=true
 
